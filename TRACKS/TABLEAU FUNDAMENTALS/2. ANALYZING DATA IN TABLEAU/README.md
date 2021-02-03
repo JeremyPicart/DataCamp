@@ -1,0 +1,3 @@
+#Course Description
+
+Take your Tableau skills up a notch with advanced analytics and visualizations. In this course, you’ll learn how to create detail-rich map visualizations, configure date and time fields to show trends over time, and extend your data using Calculated Fields. You’ll also apply your new skills to complete a customer analytics case study. Through hands-on activities, you’ll learn how to create bins, customize filters and interactions, and apply quick table calculations. Finally, you’ll learn power user techniques, including how to slice and dice data and apply dynamic sets and groups—bringing you one step closer to being Tableau Desktop Specialist certification-ready.
