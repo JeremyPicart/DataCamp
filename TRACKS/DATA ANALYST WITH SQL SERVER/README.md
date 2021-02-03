@@ -1,5 +1,3 @@
-#CAREER TRACK
-
 Data Analyst with SQL Server
 
 This track follows the curriculum for Microsoft certification exam 70-461: "Querying Microsoft SQL Server 2012/2014".
