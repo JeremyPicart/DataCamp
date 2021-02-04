@@ -8,4 +8,4 @@ It is critical to know how to handle errors and manage transactions when program
 
 * 8.3 In this chapter, you will be introduced to the concept of transactions. You will discover how to commit and rollback them. You will finish by learning how to return the number of transactions and their state.
 
-* 8.4This chapter defines what concurrency is and how it can affect transactions. You will learn exciting concepts like dirty reads, repeatable reads, and phantom reads. To avoid or allow this reads, you will explore, one by one, the different transaction isolation levels.
+* 8.4 This chapter defines what concurrency is and how it can affect transactions. You will learn exciting concepts like dirty reads, repeatable reads, and phantom reads. To avoid or allow this reads, you will explore, one by one, the different transaction isolation levels.
