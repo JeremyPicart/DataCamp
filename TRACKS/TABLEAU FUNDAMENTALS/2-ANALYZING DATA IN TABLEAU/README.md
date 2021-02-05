@@ -9,3 +9,4 @@ Take your Tableau skills up a notch with advanced analytics and visualizations. 
 * 2.3 Dive deeper into maps and elevate geographic data with layers and density. You'll customize Tooltips and learn how to embed them with more information. You'll also learn more about Quick Table Calculations and apply them to your visualizations.
 
 * 2.4 Expand your Tableau toolbox with groups, sets, and parameters. You'll create groups using Lasso selection and Calculated Fields. You'll also use Parameters to enable users to dynamically input changes to your visualizations. Finally, you'll create Sets and compare your findings to an external weather data source.
+
